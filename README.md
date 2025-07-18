@@ -44,5 +44,6 @@ Um site funcional, visualmente agradável e compatível com os requisitos do cli
 ## 👩‍💻 Desenvolvido por
 
 Pearl Nyarko
-Projeto Universitário - Programação Web HTML, CSS, JavaScript
+Projeto Universitário - Programação Web com HTML, CSS, JavaScript
 
+---
